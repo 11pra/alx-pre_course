@@ -1,7 +1,2 @@
 #!/bin/bash
 echo "School"
-'c
-^C
-'C
-root@c47d81666bee:/alx-pre_course/0x01-git/bash# git add .
-root@c47d81666bee:/alx-pre_course/0x01-git/bash# git commit -m 'Starting to code today, so cool'
